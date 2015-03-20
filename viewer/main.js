@@ -33,7 +33,7 @@ jQuery(function($) {
 
     // #### Optional - we configure the initial query a bit and set up facets
     dataset.queryState.set({size: 5}, {silent: true});
-    dataset.queryState.addFacet('Country', 10);
+    // dataset.queryState.addFacet('Country', 10);
     // After this point the Search View will take over handling queries!
     dataset.query();
 });
