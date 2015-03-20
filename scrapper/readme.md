@@ -10,7 +10,7 @@ Here's a quick js which you could run directly in the console and scrape all the
 * Copy the content of [scrape.js](scrape.js) and paste in the console
 * The projects will be listed in the console
 
-![Scraped data](/how-to.png "Scraped data page")
+![Scraped data](how-to.png "Scraped data page")
 
 * Copy the text, clean up and do some manipulation in the data to get the [clean projects data](wsis-projects-data.csv)
 
