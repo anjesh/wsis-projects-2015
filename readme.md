@@ -5,4 +5,4 @@ I wanted to see the total number of nominated projects in the WSIS list. It woul
 
 [Run Scrapper](scrapper) and prepare the following [csv projects file](scrapper/wsis-projects-data.csv)
 
-[View the data](viewer) using [Recline](http://okfnlabs.org/recline/)
+[Data viewer](https://cdn.rawgit.com/anjesh/wsis-projects-2015/master/viewer/index.html) is built using [Recline](http://okfnlabs.org/recline/).
