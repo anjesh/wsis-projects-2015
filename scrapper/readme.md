@@ -1,7 +1,7 @@
 WSIS Nominated Projects 2015 Scraper
 ====================================
 
-I wanted to see the total number of nominated projects in the WSIS list. It would be interesting to see which country sees the highest number of projects. Here's a quick js which you could run directly in the console and scrape all the required data. 
+Here's a quick js which you could run directly in the console and scrape all the required data. 
 
 ## How to run?
 
